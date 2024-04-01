@@ -1,9 +1,11 @@
+# common-drawing-bed
 
-# Welcome to use PicX
+# 公共图床
 
-[PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
+>PicX 是基于 GitHub API 开发的图床神器，图片外链使用 jsDelivr 进行 CDN 加速。免下载、免安装，打开网站即可直接使用。免费、稳定、高效。
 
-PicX is completely open source, and you can use it for free.
+基于 https://picx.xpoet.cn/#/tutorials 进行上传
 
-If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
-        
+# 参考的文章
+
+[免费的GitHub图床PicX](https://blog.csdn.net/wbsu2004/article/details/121154470)
